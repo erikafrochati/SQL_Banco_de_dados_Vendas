@@ -27,6 +27,9 @@ Com este projeto, você será capaz de realizar análises de dados que ajudam a 
 - [X] Entender o schema de um banco de dados e suas tabelas;
 - [X] Consultar todas as colunas de uma tabela usando o asterisco *;
 - [X] Contar a quantidade de linhas ou registros em uma tabela com a função COUNT;
+- [X] Limitar o número de dados extraídos usando LIMIT;
+- [X] Extrair valores das datas com strftime;
+- [X] Filtrar valores por datas combinando strftime e WHERE;
     
 
 ****
