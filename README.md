@@ -30,6 +30,11 @@ Com este projeto, você será capaz de realizar análises de dados que ajudam a 
 - [X] Limitar o número de dados extraídos usando LIMIT;
 - [X] Extrair valores das datas com strftime;
 - [X] Filtrar valores por datas combinando strftime e WHERE;
+- [X] Como se preparar para uma reunião transformando pautas em consultas;
+- [X] Responder questionamentos em uma reunião interpretando resultados de consultas;
+- [X] Utilizar o Join para trazer informações de outras tabelas;
+- [X] Combinar dados com GroupBy;
+- [X] Ordenar dados com OrderBy.
     
 
 ****
